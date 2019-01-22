@@ -1,4 +1,4 @@
-# lambda line bot template
+# Clospot cafe for lambda
 
 ## Setup
 ### setup lambda
