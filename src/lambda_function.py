@@ -1,9 +1,12 @@
 import os
 import sys
-import requests
 import json
 import urllib.parse
 import random
+import logging
+
+import requests
+
 from linebot import (
     LineBotApi, WebhookHandler
 )
@@ -13,7 +16,6 @@ from linebot.models import (
 from linebot.exceptions import (
     LineBotApiError, InvalidSignatureError
 )
-import logging
 
 
 logger = logging.getLogger()
