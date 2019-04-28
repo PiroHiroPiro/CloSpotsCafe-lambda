@@ -2,6 +2,9 @@
 
 This is a LINE bot that can search for nearby cafes based on location information.
 
+<img src="https://user-images.githubusercontent.com/15605155/56859350-590c5e00-69c4-11e9-8311-e6969dc894de.PNG" width="320px">
+<img src="https://user-images.githubusercontent.com/15605155/56859351-590c5e00-69c4-11e9-8197-1410c5b4869f.PNG" width="320px">
+
 ## Requirement
 
 - Python:3.6
